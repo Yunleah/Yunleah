@@ -2,7 +2,7 @@
 Senior High Student  
 
 ```kotlin
-let lang = arrayOf("kotlin", "java", "rust", "python")
+val lang = arrayOf("kotlin", "java", "rust", "python")
 ```
 
 
