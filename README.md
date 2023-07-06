@@ -5,5 +5,7 @@ Senior High Student
 val lang = arrayOf("kotlin", "java", "rust", "python")
 ```
 
+Email: Yunleah@Outlook.com  or  2301385546@qq.com  
+
 
 
