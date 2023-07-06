@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Yunleah~
+### Hi there 👋, I'm Yunleah.
 Senior High Student  
 
 ```kotlin
